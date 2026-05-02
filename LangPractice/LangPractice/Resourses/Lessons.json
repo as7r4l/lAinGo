@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "title": "At the Cafe",
+    "description": "Learn how to order food and drinks",
+    "keyPhrases": ["I'd like...", "Could I have...", "Can I get..."],
+    "emoji": "☕️"
+  },
+  {
+    "id": 2,
+    "title": "Meeting People",
+    "description": "Practice introducing yourself and small talk",
+    "keyPhrases": ["Nice to meet you", "How are you?", "What do you do?"],
+    "emoji": "👋"
+  },
+  {
+    "id": 3,
+    "title": "At the Airport",
+    "description": "Navigate airport conversations",
+    "keyPhrases": ["Where is gate...", "Boarding pass", "Checked baggage"],
+    "emoji": "✈️"
+  },
+  {
+    "id": 4,
+    "title": "Shopping",
+    "description": "Ask about prices and sizes",
+    "keyPhrases": ["How much is...", "Do you have this in...", "I'm looking for..."],
+    "emoji": "🛍️"
+  },
+  {
+    "id": 5,
+    "title": "At the Doctor",
+    "description": "Describe symptoms and understand advice",
+    "keyPhrases": ["I have a headache", "It hurts when...", "How often should I..."],
+    "emoji": "🏥"
+  }
+]
